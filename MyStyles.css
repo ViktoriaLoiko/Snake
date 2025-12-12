@@ -33,3 +33,28 @@ td.game-table-cell{
     margin: 30px auto 0;
     text-align: center;
 }
+
+/* Дополнительная лёгкая красота */
+        body {
+            background: linear-gradient(135deg, #1f1f1f, #3d3d3d);
+            font-family: Arial, sans-serif;
+            color: #fff;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 20px;
+            font-size: 36px;
+            color: #9dfc5c;
+            text-shadow: 0 0 10px #3cff00;
+        }
+
+        .instructions {
+            max-width: 400px;
+            margin: 0 auto 20px;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            line-height: 1.5;
+            font-size: 15px;
+        }
